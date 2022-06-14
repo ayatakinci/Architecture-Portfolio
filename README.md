@@ -1,20 +1,16 @@
 
 ### Todo
 
-- [ ] bütün fotoğraflar açıklamalar heryere ayarlancak 
-- [ ] socail linkler bağlancak (numara koylcak mi?) ve portfolioyaya basına about me tarafına gelcek
-- [ ] bi tane buton görünmyor bug fix
+- [ ] Sayfalarda bulunan default statik fotoğraflar ve açıklamalar yerine koyulcak 
+- [ ] socail linkler bağlancak (numara koylcak mi?)
 - [ ] admin paneli yapılcak
-- [ ] bütün routelar yapılcak )
- - [ ] (home route navbar route emaill route footer rroute get button routeları
-- [ ] contact me firebase bağlancak
-  - [ ] Sub-task or description  
+- [ ] bütün routelar yapılcak navbr footer buton routelari
  
 
 ### In Progress
 
-- [ ] projects componenti refactor yapılcak project page dynamic sayfa yapıp api bağlncak -bende 
+- [ ] projects componenti refactor yapılcak project page dynamic sayfa yapıp api bağlncak 
 
 ### Done ✓
 
-- [x] Projeler sayfasını kodlanması
+- [x] 
